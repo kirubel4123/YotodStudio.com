@@ -1,0 +1,20 @@
+this web was created by kirubel where edited the template from html5 up free for use and it is recreated for a small buisness .
+
+
+special thanks for : html5 up
+                     AJ
+aj@lkn.io | @ajlkn
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
